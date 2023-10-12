@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine Yousfi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Amine Yousfi
 ====================================================================================================================================
 
 Front End Developer, WordPress Developer
@@ -8,8 +8,10 @@ I'm a frontend developer with a passion for creating innovative and user-friendl
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [usfi.amine@gmail.com](mailto:usfi.amine@gmail.com)
-* 🧠  I'm learning everything JavaScript
-* 🤝  I'm open to collaborating on Front End Development project
+* 🧠  I’m currently learning **Next.js**
+* 💬  Ask me about **Front end Technologies, WordPress**
+* 🤝  I'm open to collaborating on **Front End Development project**
+* ⚡  Fun fact **I am funny**
 
 ### Skills
 

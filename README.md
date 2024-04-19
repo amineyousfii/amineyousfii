@@ -3,8 +3,9 @@
 
 Front End Developer, WordPress Developer
 ----------------------------------------
-<img align="right" alt="coding" width= "460px" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_423_752/0/1651835064260?e=1702512000&v=beta&t=L0y0p_OfQy1Uk-7bz8ww27U1Wvvxf3IMRUYRdQjL1UA">
-I'm a frontend developer with a passion for creating innovative and user-friendly web applications. I have 2+ years of hands-on experience in freelancing, remote & cooperative projects in WordPress and Front end development.
+
+I'm a frontend developer with a passion for creating innovative and user-friendly web applications. 
+I have 3+ years of hands-on experience in freelancing, remote & cooperative projects in WordPress and Front end development.
 
 * 🌍  I'm based in **Tunisia**
 * ✉️  You can contact me at [usfi.amine@gmail.com](mailto:usfi.amine@gmail.com)

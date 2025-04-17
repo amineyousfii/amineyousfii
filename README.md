@@ -7,7 +7,7 @@ Front End Developer, WordPress Developer
 I'm a frontend developer with a passion for creating innovative and user-friendly web applications. 
 I have 3+ years of hands-on experience in freelancing, remote & cooperative projects in WordPress and Front end development.
 
-* 🌍  I'm based in **Tunisia**
+* 🌍  I'm based in **Portugal**
 * ✉️  You can contact me at [usfi.amine@gmail.com](mailto:usfi.amine@gmail.com)
 * 🧠  I’m currently learning **Next.js**
 * 💬  Ask me about **Front end Technologies, WordPress**
